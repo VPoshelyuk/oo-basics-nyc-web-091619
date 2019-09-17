@@ -1,4 +1,5 @@
 class Book
+<<<<<<< HEAD
     def initialize(title)
         @title = title
         end
@@ -36,3 +37,7 @@ class Book
         end
 end
 
+=======
+
+end
+>>>>>>> 74ec7c5350f088f3fcac7011841da2066db203bb
